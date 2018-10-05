@@ -74,4 +74,4 @@ Note: You **do not** have to add default cogs into `data/community_cogs.txt`.
 
 ## Acknowledgements
 
-> Eval and google commands by [Rapptz](https://github.com/Rapptz) from R.Danny
+> Eval and Google commands by [Rapptz](https://github.com/Rapptz) from R.Danny
