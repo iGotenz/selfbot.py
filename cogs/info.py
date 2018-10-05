@@ -156,7 +156,7 @@ class Information:
     @commands.command(aliases=['ui'])
     @commands.guild_only()
     async def userinfo(self, ctx, *, member : discord.Member=None):
-        '''Get information about a member of a server'''
+        '''See information of a member on a server'''
         server = ctx.guild
         user = member or ctx.message.author
         avi = user.avatar_url
